@@ -2,7 +2,10 @@
 
 I'm Ares, just one more guy here to learn some about this huge world, while laught 
 a lot since Valencia, Spain.
+
+
 Seriusly on joke, don't forget your towel!
+By the way, don't forget to take a look in Codédex. It's really awesome.
 
 ### About me:
 
@@ -32,6 +35,9 @@ with South Park. Somexmas I will become Mr.Hanky!!
 - 🌱 I’m currently learning python and other starting programs
 - 📫 How to reach me arescaballero96@hotmail.com
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@aresmendi1312/30-nites-of-code)  
+  ![@aresmendi1312 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aresmendi1312)
 <!---
 aresmendi/aresmendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
