@@ -1,39 +1,17 @@
-## Hello!!
+👋 Hello there!
+I'm Ares, an aspiring software developer passionate about building useful and creative applications.
+Currently based in Valencia, Spain, I'm completing my studies in Desarrollo de Aplicaciones Multiplataforma (DAM), with the goal of starting a career in the software development world.
 
-I'm Ares, just one more guy here to learn about this huge world, while laught 
-a lot since Valencia, Spain.
+🧑‍💻 About me
+Transitioning from jobs in hospitality and other fields to the tech industry, highly motivated to grow as a developer.
+Proud dog owner 🐶 (definitely the best coding companion).
 
+🎸 Beyond coding
+Passionate about From Software videogames — always ready for a challenge.
+Music lover: I play guitar, sing, and enjoy flamenco deeply.
+Big fan of South Park references.
 
-Seriusly on joke, don't forget your towel!
-
-### About me:
-
--Usually working at the fields or the restaurants. For sure any change will be welcome
-
-
--I studied History at the University, maybe that's why I want to conquer Dacia 
-riding a horse with a couple of legions
-
-
--I have the prettiest dog that anyone could have
-
-### Some fun things
-
--I love From Software videogames. Yes, i'm that kind of guy
-
-
--Living flamenco, sing and play the guitar. Always "Lolailo".
-
-
--Some people is always making references about the simpsons. I can't stop to make that
-with South Park. HoooowdyHoo!
-
-- 👋 Hi, I’m @aresmendi
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning python and other starting programs
-- 📫 How to reach me arescaballero96@hotmail.com
-
-<!---
-aresmendi/aresmendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 How to reach me
+✉️ Email: arescaballero96@hotmail.com
+🌍 GitHub: @aresmendi
+👉 Constantly learning, always creating, and always dispose to collaborate on exciting software projects.
